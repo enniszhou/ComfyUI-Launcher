@@ -1,0 +1,21 @@
+{
+  "comfyui_dir": "C:/AIWorkSpace/ComfyUI-aki-v3.2/ComfyUI",
+  "python_exe": "C:/AIWorkSpace/ComfyUI-aki-v3.2/python/python.exe",
+  "git_exe": "C:/install/Git/cmd/git.exe",
+  "port": 8189,
+  "listen": true,
+  "gpu_type": "auto",
+  "extra_args": "--disable-async-offload",
+  "theme": "dark",
+  "pip_mirror": "tsinghua",
+  "hf_mirror": "hf-mirror",
+  "git_mirror": "official",
+  "proxy_address": "http://127.0.0.1:7897",
+  "proxy_enabled": true,
+  "proxy_git": true,
+  "proxy_pip": true,
+  "proxy_hf": false,
+  "disabled_patches": [],
+  "window_width": 1100,
+  "window_height": 750
+}
